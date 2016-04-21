@@ -1,0 +1,6 @@
+{
+  "name": "Workout-demo",
+  "tagline": "Demos from SWC Workouts",
+  "body": "### Welcome to SWC UBC Workouts.\r\nIn Earth, Ocean and Atmospheric Sciences we have bi-weekly [software carpentry](http://software-carpentry.org/) workouts. This one was on making static webpages using github.io.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
